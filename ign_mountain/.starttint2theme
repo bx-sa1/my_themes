@@ -1,0 +1,2 @@
+#!/bin/sh
+tint2 -c ~/.config/tint2/ign_mountain.tint2rc
